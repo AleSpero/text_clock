@@ -1,8 +1,8 @@
 name: text_clock
-description: A new Flutter package project.
+description: Android-like TextClock widget for flutter.
 version: 0.0.1
-author:
-homepage:
+author: Alessandro Sperotti <alessandrosperotti@gmail.com>
+homepage: https://github.com/AleSpero/text_clock
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

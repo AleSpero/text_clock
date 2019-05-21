@@ -140,7 +140,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "6a5013c58f19d28e09eea4ecc76589593fc6aaec"
+      resolved-ref: "773b0382234e23c723b01eea625a7c12359a4215"
       url: "git://github.com/AleSpero/text_clock.git"
     source: git
     version: "0.0.1"
